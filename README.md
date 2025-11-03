@@ -13,6 +13,14 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### 🐍 **Languages & Frameworks**
@@ -42,6 +50,26 @@
 ![Smart Device](https://img.shields.io/badge/-Smart_Device-FF9800)
 ![Research in AI-Driven Systems](https://img.shields.io/badge/-Research_in_AI_Driven_Systems-102230)
 ![AI_Tools](https://img.shields.io/badge/-AI_Tools-FF9800)
+
+---
+# 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun1009200&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun1009200&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarun1009200&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarun1009200&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarun1009200&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=tarun1009200&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun1009200&theme=radical">
+
+</div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun1009200&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=tarun1009200&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tarun1009200&theme=dark&hide_border=false)
+
 
 ---
 
@@ -89,17 +117,6 @@
   
 <img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/lvl0-alien.webp" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
   
-</div>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=tarun1009200&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun1009200&layout=compact&theme=tokyonight&hide_border=true)  
-![Streak](https://streak-stats.demolab.com?user=tarun1009200&theme=tokyonight&hide_border=true)
 
 </div>
 
