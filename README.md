@@ -109,20 +109,6 @@
 
 ---
 
-## 🏆 Highlights  
-
-<div align="center">
-  
-[![Holopin Badges](https://holopin.me/shyamatripathi)](https://holopin.io/@shyamatripathi)  
-  
-<img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/lvl0-alien.webp" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
-  
-
-</div>
-
-
----
-
 ## 🎯 Current Focus  
 
 - 🚀 Building Cyber & IoT Device & AI Tools with **Python + Windows Scripts + Virtual_Box + Raspberry Pi**  
